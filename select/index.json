@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dearest",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-01T21:35:10.543335Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Dearest Friend",
+      "artist": "Devendra Banhart",
+      "has_synced": false,
+      "path": "select/01_My_Dearest_Friend_Devendra_Banhart.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dearest Helpless",
+      "artist": "Silverchair",
+      "has_synced": true,
+      "path": "select/02_Dearest_Helpless_Silverchair.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dearest Alfred",
+      "artist": "Khruangbin",
+      "has_synced": true,
+      "path": "select/03_Dearest_Alfred_Khruangbin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Dearest",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_My_Dearest_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dearest",
+      "artist": "Mickey & Sylvia",
+      "has_synced": true,
+      "path": "select/05_Dearest_Mickey_&_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Drown in My Own Tears (fragment) / Maria Elena / Dearest",
+      "artist": "Buddy Holly",
+      "has_synced": false,
+      "path": "select/06_Drown_in_My_Own_Tears_(fragment)___Maria_Elena___Dearest_Buddy_Holly.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dearest Esmeralda",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/07_Dearest_Esmeralda_John_Denver.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/08_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "02 - My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/09_02_-_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "06 My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/10_06_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Dearest Darling",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/11_My_Dearest_Darling_Etta_James.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dearest Love",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_Dearest_Love_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Dearest",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_02_Dearest_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Dearest",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_03_Dearest_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dearest",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_04_Dearest_L'Arc~en~Ciel.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Dearest-TV size-",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_05_Dearest-TV_size-_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
